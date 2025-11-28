@@ -3,6 +3,7 @@
 -UROOJ KHAN
 -SHAZIA WAJID
 -RIDA IRFAN
+
  ******Student Performance Prediction – ML Project******
 
 This project analyzes student performance data and builds predictive models using multiple regression algorithms. The goal is to understand how different factors (study hours, sleep hours, extracurricular activities, etc.) impact the Performance Index.
