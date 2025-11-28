@@ -26,7 +26,7 @@ Comparison of multiple regression models
 
 You can use this project as a starter template for supervised regression tasks.
 
-** Dataset**
+**Dataset**
 
 Source: Kaggle – Student Performance Multiple Linear Regression
 Columns include:
